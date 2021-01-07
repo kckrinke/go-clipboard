@@ -1,1 +1,3 @@
-module github.com/atotto/clipboard
+module github.com/kckrinke/go-clipboard
+
+go 1.15
